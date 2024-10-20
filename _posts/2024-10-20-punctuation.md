@@ -8,11 +8,11 @@ Punctuation has the ability to add to your unique style as much as any variation
 STARS
 
 Commonly used in footnotes and censorship, stars are some of the most aesthetically beautiful elements that can be added to text. Whether an asterisk (*) or a unicode symbol (★), stars are extremely versatile in both styling and application. Some key uses include:
-Drawing attention to points: Just as stars in the sky may guide weary travelers, so too can your stars indicate to the reader a detail of significance they might otherwise overlook.
+	Drawing attention to points: Just as stars in the sky may guide weary travelers, so too can your stars indicate to the reader a detail of significance they might otherwise overlook.
 
-“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE **THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”
+“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE ** THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK ** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”
 
--LABOUR UNIONS FOR THE NEW ERA (1983)
+>LABOUR UNIONS FOR THE NEW ERA (1983)
 
 Adding controlled space: Due to their stylistic beauty, stars also provide a way to separate ideas, paragraphs, or movements in a more fun way than conventional grammar allows. It should be noted that stars often work best in groups of odd numbers, especially in an equivalent amount to the number of points on each unit. (Numerical harmony being as it is!)
 
