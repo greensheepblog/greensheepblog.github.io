@@ -9,36 +9,43 @@ Punctuation has the ability to add to your unique style as much as any variation
 STARS
 
 Commonly used in footnotes and censorship, stars are some of the most aesthetically beautiful elements that can be added to text. Whether an asterisk (*) or a unicode symbol (★), stars are extremely versatile in both styling and application. Some key uses include:
-	Drawing attention to points: Just as stars in the sky may guide weary travelers, so too can your stars indicate to the reader a detail of significance they might otherwise overlook.
+	
+<br>
+Drawing attention to points: Just as stars in the sky may guide weary travelers, so too can your stars indicate to the reader a detail of significance they might otherwise overlook.
 
 <br>
 <small>“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE ** THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK ** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”
 
 -LABOUR UNIONS FOR THE NEW ERA (1983)</small>
 
+<br>
 Adding controlled space: Due to their stylistic beauty, stars also provide a way to separate ideas, paragraphs, or movements in a more fun way than conventional grammar allows. It should be noted that stars often work best in groups of odd numbers, especially in an equivalent amount to the number of points on each unit. (Numerical harmony being as it is!)
 
-	IN THE MORNING I WENT FOR A SWIM.
-	★ ★ ★ ★ ★
-	IN THE NIGHT I SLEPT.
-	★ ★ ★ ★ ★
-	TOMORROW, I SHALL JOIN A COVEN.
+<small>"THREE CATS WATCH ME NOW.
+★ ★ ★ ★ ★
+I SLOWLY OPEN TUNA.
+★ ★ ★ ★ ★
+THE FISH IS ALL MINE. (HEHE)"
 
-	-The Diaries of Alora Muveld, Herbalist, Witch, Investment Banker (2046)
+-The Diaries of Alora Muveld, Herbalist, Witch, Investment Banker (2046) </small>
 
+<br>
 Signifying universal or otherworldly influence: Sometimes, you just want your readers to feel that your piece is of immense importance. Stars have been a subject of fascination & mysticism for humans across the millenia, often depicted in religious texts such as the Bible and Quran. Their inclusion in works can sometimes be a subconscious calling to readers, adding a sense of foreboding, or destiny to an otherwise bland or preachy piece. 
 
-	HEED NOT THE WARNING OF OUR MESSAGE AND FACE THE INSCRUTABLE WRATH OF THE MANUFACTURING DEFECT. * * * 
+<br>
+<small>"HEED NOT THE WARNING OF OUR MESSAGE AND FACE THE INSCRUTABLE WRATH OF THE MANUFACTURING DEFECT. * * *"
 
-	- LABEL I SHOULD HAVE READ ON MY PHONE (2021)
+- LABEL I SHOULD HAVE READ ON MY PHONE (2021) </small>
 
+<br>
 BREAKING THE 4TH WALL
 
 Three lines drawn vertically and grouped together in this symbol (|||) are representative of three walls in a room *and a nonexistent, broken 4th wall*. As the name indicates, this symbol can be used in situations where a character breaks the established boundaries of the story, and speaks directly to the audience. More radical writers are also beginning to use this symbol as means of showing a disjunction in time- seemingly alluding to notions of the 4th dimension. 
 
 Proponents of the symbol feel that it is useful in inviting the reader to engage with the text on a more personal level, thus involving them further with the work. Skeptics, however, point out that writers have historically been able to speak directly to audiences or have omniscient narrators without need for specific, standardized punctuation. The inclusion of such punctuation only limits creativity and minimizes the technical skill needed for tactful writing. The 4th wall symbol is still relatively experimental, but the debate around its usage is expected to grow as modern literary pieces further push the boundaries between author, text, & reader. 
 
-	||| was going to add an example here, but I’m too tired to think of one|||
+<br>
+<small>"||| was going to add an example here, but I’m too tired to think of one|||"</small>
 
 AMPERSANDS
 
