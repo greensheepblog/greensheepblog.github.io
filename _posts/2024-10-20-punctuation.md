@@ -16,12 +16,12 @@ Drawing attention to points: Just as stars in the sky may guide weary travelers,
 <br>
 <small>“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE ** THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK ** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”
 
--LABOUR UNIONS FOR THE NEW ERA (1983)</small>
+<small>-LABOUR UNIONS FOR THE NEW ERA (1983)
 
 <br>
 Adding controlled space: Due to their stylistic beauty, stars also provide a way to separate ideas, paragraphs, or movements in a more fun way than conventional grammar allows. It should be noted that stars often work best in groups of odd numbers, especially in an equivalent amount to the number of points on each unit. (Numerical harmony being as it is!)
 
-<small>"THREE CATS WATCH ME NOW.
+<br><small>"THREE CATS WATCH ME NOW.
 <br><small>★ ★ ★ ★ ★
 <br><small>I SLOWLY OPEN TUNA.
 <br><small>★ ★ ★ ★ ★
@@ -40,9 +40,9 @@ Signifying universal or otherworldly influence: Sometimes, you just want your re
 <br>
 BREAKING THE 4TH WALL
 
-Three lines drawn vertically and grouped together in this symbol: /||| are representative of three walls in a room *and a nonexistent, broken 4th wall*. As the name indicates, this symbol can be used in situations where a character breaks the established boundaries of the story, and speaks directly to the audience. More radical writers are also beginning to use this symbol as means of showing a disjunction in time- seemingly alluding to notions of the 4th dimension. 
+Three lines drawn vertically and grouped together in this symbol: \|\|\| are representative of three walls in a room *and a nonexistent, broken 4th wall*. As the name indicates, this symbol can be used in situations where a character breaks the established boundaries of the story, and speaks directly to the audience. More radical writers are also beginning to use this symbol as means of showing a disjunction in time- seemingly alluding to notions of the 4th dimension. 
 
-Proponents of the symbol feel that it is useful in inviting the reader to engage with the text on a more personal level, thus involving them further with the work. Skeptics, however, point out that writers have historically been able to speak directly to audiences or have omniscient narrators without need for specific, standardized punctuation. The inclusion of such punctuation only limits creativity and minimizes the technical skill needed for tactful writing. The 4th wall symbol is still relatively experimental, but the debate around its usage is expected to grow as modern literary pieces further push the boundaries between author, text, & reader. ||| was going to add an example here, but i’m too tired to think of one|||
+Proponents of the symbol feel that it is useful in inviting the reader to engage with the text on a more personal level, thus involving them further with the work. Skeptics, however, point out that writers have historically been able to speak directly to audiences or have omniscient narrators without need for specific, standardized punctuation. The inclusion of such punctuation only limits creativity and minimizes the technical skill needed for tactful writing. The 4th wall symbol is still relatively experimental, but the debate around its usage is expected to grow as modern literary pieces further push the boundaries between author, text, & reader. \|\|\| was going to add an example here, but i’m too tired to think of one\|\|\|
 
 <br>
 AMPERSANDS
@@ -79,19 +79,22 @@ The upside-down question mark ( ¿ ) is already a part of formal punctuation in 
 
 <br>HEARTS- ♥ ♥ ♥
 Hearts are an adorable way to contribute to your writing style, especially in situations in which you want your reader to have a strong emotional boost of positivity in their life. Too often do authors take pride in their unintelligible contemplation and grammatically fanatical punctuation at the expense of the reader. Instead of adding a semicolon to alienate your readers, add a heart to make them feel loved!
-<br><small>X IT’S COOL TO USE PUNCTUATION; IT MAKES WRITING LEGIBLE. 
-<br><small>✓ IT’S COOL TO USE PUNCTUATION ♥ IT MAKES WRITING FUN!    
+	
+ 	X IT’S COOL TO USE PUNCTUATION; IT MAKES WRITING LEGIBLE. 
+	✓ IT’S COOL TO USE PUNCTUATION ♥ IT MAKES WRITING FUN!    
 	
 
 <br>UPSIDE-DOWN EXCLAMATION POINTS- ¡¡¡¡¡
 Yes, the upside-down punctuation returns. Unlike the upside down question marks, exclamation points don’t have to indicate any hesitation whatsoever. In fact, they are a symbol of great joy- and almost bewildered awe! Do not be afraid to overuse them. 
-<br><small>DID YOU SEE THE NEWS TODAY!!¡¡!¡¡
+
+<br>
+<small>DID YOU SEE THE NEWS TODAY!!¡¡!¡¡
 
 
-AMPERSAND-UPSIDE DOWN QUESTION MARK
+<br>AMPERSAND-UPSIDE DOWN QUESTION MARK
 Well, the name is still being workshopped for this one, but at least it’s pretty self-explanatory. Pictured below, this punctuation is still in its infancy, and has yet to make the big break to keyboards or unicode directories. 
 
-FLOWERS- ⚘ ⁕ ⚘
+<br>FLOWERS- ⚘ ⁕ ⚘
 One of my personal favorites, especially in handwriting, flowers are pretty, whimsical, and magical. Flowers are the sort of loose creative touch that can add whatever you want, and mean whatever you like them to mean. As a writer, you ultimately have control over your life and choices, and punctuation is no different. Change your writing tools as you see fit, don’t let conventionality get you down :)
 
 ~⁕~   ~⁕~   ~⁕~   ~⁕~   ~⁕~
