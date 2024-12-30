@@ -5,14 +5,16 @@ categories: Writing
 ---
 Punctuation has the ability to add to your unique style as much as any variation in word choice, literary devices, or vaguely philosophical musings. Though the use of punctuation is generally taught to be strict and unwavering, modern writers are increasingly pushing back against conventional boundaries in both creative and technical writing. By incorporating a more liberal use of punctuation into their works, authors can convey points and subtleties traditional grammar fails to address (or at the very least stand out from the pack with a bit of design flair.) Below is a compiled guide of some of my favorite unconventional punctuation, with examples of usage as necessary. 
 
+<br>
 STARS
 
 Commonly used in footnotes and censorship, stars are some of the most aesthetically beautiful elements that can be added to text. Whether an asterisk (*) or a unicode symbol (★), stars are extremely versatile in both styling and application. Some key uses include:
 	Drawing attention to points: Just as stars in the sky may guide weary travelers, so too can your stars indicate to the reader a detail of significance they might otherwise overlook.
 
-<p>*“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE ** THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK ** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”*</p>
+<br>
+<small>“SINCE THE ADVENT OF THE WHEELY CHAIR, MINOR OFFICE ACCIDENTS HAVE BEEN INCREASING AT ALARMING RATES. THE COMMISSION FOR TECHNOLOGICAL REDUCTION IN THE WORKPLACE (CTRW) IS ONE ORGANIZATION HOPING TO ADDRESS THIS ISSUE ** THOUGH PROGRESS HAS STALLED DUE TO POLITICAL INTERFERENCE AND AN UNPRECEDENTED SALMONELLA OUTBREAK ** AWARENESS ABOUT WHEELY CHAIR DANGER IS ALSO LOW AS MOST MAINSTREAM MEDIA SOURCES FAIL TO PROVIDE ADEQUATE COVERAGE OF THE ISSUE.”
 
-<p>-LABOUR UNIONS FOR THE NEW ERA (1983)</p>
+-LABOUR UNIONS FOR THE NEW ERA (1983)</small>
 
 Adding controlled space: Due to their stylistic beauty, stars also provide a way to separate ideas, paragraphs, or movements in a more fun way than conventional grammar allows. It should be noted that stars often work best in groups of odd numbers, especially in an equivalent amount to the number of points on each unit. (Numerical harmony being as it is!)
 
