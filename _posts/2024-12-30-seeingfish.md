@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lately, I have been seeing fish"
+title: "Lately, I have been seeing fish..."
 categories: Writing
 ----
 Lately I have been seeing fish
