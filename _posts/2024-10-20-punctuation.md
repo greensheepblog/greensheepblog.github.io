@@ -55,17 +55,17 @@ Aside from the philosophical explanation, the ampersand holds a special place in
 
 They can be used as a simple substitution:
 
-<br><small>I LOVE TO HAVE CANDY & PASTRIES ON THE WEEKEND.
+<small>I LOVE TO HAVE CANDY & PASTRIES ON THE WEEKEND.</small>
 
-An indication of further (but possibly unknowable) information:
+<br>An indication of further (but possibly unknowable) information:
 
-<br><small>PLEASE PACK YOUR RAIN JACKET, LANYARD, RING, & …
+<small>PLEASE PACK YOUR RAIN JACKET, LANYARD, RING, & …</small>
 
-Or as a lovely bit of decoration & emphasis:
+<br>Or as a lovely bit of decoration & emphasis:
 
-<br><small>&&& BE HAPPY &&&
+<small>&&& BE HAPPY &&&</small>
 
-As you can see from the examples above, including this amazing character is definitely worth any slip ups in perceived professionality! In fact, the symbol is increasingly being used by people around the world, most notably gaining traction in radical environmental groups due to its efficient, conservational nature. Whether you are synced into its universal meaning or not, the ampersand is undoubtedly a fun & exciting way to spice up your writing that will most certainly be making a comeback. 
+<br>As you can see from the examples above, including this amazing character is definitely worth any slip ups in perceived professionality! In fact, the symbol is increasingly being used by people around the world, most notably gaining traction in radical environmental groups due to its efficient, conservational nature. Whether you are synced into its universal meaning or not, the ampersand is undoubtedly a fun & exciting way to spice up your writing that will most certainly be making a comeback. 
 
 <br>UPSIDE-DOWN QUESTION MARKS
 
