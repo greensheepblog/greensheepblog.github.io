@@ -22,12 +22,12 @@ Drawing attention to points: Just as stars in the sky may guide weary travelers,
 Adding controlled space: Due to their stylistic beauty, stars also provide a way to separate ideas, paragraphs, or movements in a more fun way than conventional grammar allows. It should be noted that stars often work best in groups of odd numbers, especially in an equivalent amount to the number of points on each unit. (Numerical harmony being as it is!)
 
 <br><small>"THREE CATS WATCH ME NOW.
-<br><small>★ ★ ★ ★ ★
-<br><small>I SLOWLY OPEN TUNA.
-<br><small>★ ★ ★ ★ ★
-<br><small>THE FISH IS ALL MINE. (HEHE)"
+<br>★ ★ ★ ★ ★
+<br>I SLOWLY OPEN TUNA.
+<br>★ ★ ★ ★ ★
+<br>THE FISH IS ALL MINE. (HEHE)"
 
-<small>-The Diaries of Alora Muveld, Herbalist, Witch, Investment Banker (2046)
+<small>-THE DIARIES OF ALORA MUVELD, HERBALIST, WITCH, INVESTMENT BANKER (2046)
 
 <br>
 Signifying universal or otherworldly influence: Sometimes, you just want your readers to feel that your piece is of immense importance. Stars have been a subject of fascination & mysticism for humans across the millenia, often depicted in religious texts such as the Bible and Quran. Their inclusion in works can sometimes be a subconscious calling to readers, adding a sense of foreboding, or destiny to an otherwise bland or preachy piece. 
@@ -55,15 +55,15 @@ Aside from the philosophical explanation, the ampersand holds a special place in
 
 They can be used as a simple substitution:
 
-	I LOVE TO HAVE CANDY & PASTRIES ON THE WEEKEND.
+<br><small>I LOVE TO HAVE CANDY & PASTRIES ON THE WEEKEND.
 
 An indication of further (but possibly unknowable) information:
 
-	PLEASE PACK YOUR RAIN JACKET, LANYARD, RING, & …
+<br><small>PLEASE PACK YOUR RAIN JACKET, LANYARD, RING, & …
 
 Or as a lovely bit of decoration & emphasis:
 
-	&&& BE HAPPY &&&
+<br><small>&&& BE HAPPY &&&
 
 As you can see from the examples above, including this amazing character is definitely worth any slip ups in perceived professionality! In fact, the symbol is increasingly being used by people around the world, most notably gaining traction in radical environmental groups due to its efficient, conservational nature. Whether you are synced into its universal meaning or not, the ampersand is undoubtedly a fun & exciting way to spice up your writing that will most certainly be making a comeback. 
 
@@ -79,9 +79,9 @@ The upside-down question mark ( ¿ ) is already a part of formal punctuation in 
 
 <br>HEARTS- ♥ ♥ ♥
 Hearts are an adorable way to contribute to your writing style, especially in situations in which you want your reader to have a strong emotional boost of positivity in their life. Too often do authors take pride in their unintelligible contemplation and grammatically fanatical punctuation at the expense of the reader. Instead of adding a semicolon to alienate your readers, add a heart to make them feel loved!
-	
- 	X IT’S COOL TO USE PUNCTUATION; IT MAKES WRITING LEGIBLE. 
-	✓ IT’S COOL TO USE PUNCTUATION ♥ IT MAKES WRITING FUN!    
+
+<br><small>X IT’S COOL TO USE PUNCTUATION; IT MAKES WRITING LEGIBLE. 
+<br>✓ IT’S COOL TO USE PUNCTUATION ♥ IT MAKES WRITING FUN!    
 	
 
 <br>UPSIDE-DOWN EXCLAMATION POINTS- ¡¡¡¡¡
@@ -97,5 +97,5 @@ Well, the name is still being workshopped for this one, but at least it’s pret
 <br>FLOWERS- ⚘ ⁕ ⚘
 One of my personal favorites, especially in handwriting, flowers are pretty, whimsical, and magical. Flowers are the sort of loose creative touch that can add whatever you want, and mean whatever you like them to mean. As a writer, you ultimately have control over your life and choices, and punctuation is no different. Change your writing tools as you see fit, don’t let conventionality get you down :)
 
-~⁕~   ~⁕~   ~⁕~   ~⁕~   ~⁕~
+<br>~⁕~   ~⁕~   ~⁕~   ~⁕~   ~⁕~
 
