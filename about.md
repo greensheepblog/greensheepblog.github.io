@@ -10,7 +10,9 @@ Welcome to my blogging journey! :) :) :)
 
 - **Dedication:** This blog is dedicated to all the wonderful people I see every day, & all the wonderful people I have yet to meet!
 
-- **External Links:** New projects coming soon....
+- **External Links:**
+Listen to my [radio show](https://camfm.co.uk/shows/the-cosmic-adventuring-radio-show/).
+& New projects coming soon....
 
 
 
