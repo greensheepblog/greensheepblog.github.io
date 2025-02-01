@@ -7,7 +7,9 @@ layout: post
 The following mini stories were written in Fall/Winter 2024.
 
 
+<br>
 **True Names**
+<br>
 Have you heard about true names? Supposedly everything around here has one. And if you know a true name, you can know its owner’s secrets, and you can see inside of them, like an aquarium. 
 
 The trouble with true names though, is they’re pretty illusive (which is kinda the point). I don’t know the true name of anything specific. I have, however, managed to pick up a few patterns. 
@@ -15,7 +17,9 @@ The trouble with true names though, is they’re pretty illusive (which is kinda
 I know for example, that all violas have true names that correspond to certain pasta types. That’s why I’ve spent so long in the pasta aisle today. Gathering data. When I get home, I’ll whisper them all to my instrument: penne, linguini, cavatappi, orecchiette. If it works, maybe I won’t have to practice so much. 
 
 
+<br>
 **Ethnograph 1**
+<br>
 Today is the first meeting of the witches. I’ve brought a notebook to show that I plan to take things seriously. I’ve brought a sparkly blue pen to show that I am not too serious, and have an artistic appreciation for things. I’ve brought a bag that’s in between casual and formal. If anyone asks, it’s thrifted.
 
 You can tell that witches live here because of the cats on the porch and the ivy in the window. The leaves of ivy have little cut outs where the cats have bitten them. I have bitten ivy once, but it doesn’t taste nearly as good as the cats seem to think. You can also tell that witches live here because it smells like women. A group of women smells like cinnamon and chives and lavender and magic. I sprayed lavender perfume before I arrived because otherwise I would smell like salt and stress. 
@@ -24,8 +28,9 @@ We made some potions: for strength, for love, and one for migraines as well. Min
 
 I forgot my name, so I was no good at introductions. I did remember my email though, so I’ve signed up for the mailing list. This is perfect because I check my emails a lot. I won’t check too soon though because witches are probably supposed to be a little more detached from that kind of thing. I do think I’ll go back soon. Then I’ll probably be a proper witch. 
 
-
+<br>
 **Attempts at Astronomy**
+<br>
 A group of us went to see the comet. It only comes about every few tens of thousands of years, so even though I was tired, I figured it was worth going. This way I can sleep in next time it shows up.
 
 We stood out in the cold, huddled together. And I couldn’t find the star. A girl kept trying to point, and we even got out this special astronomy app, but I still could not pick it out. 
