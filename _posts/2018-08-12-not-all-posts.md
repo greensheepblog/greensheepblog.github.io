@@ -1,10 +1,11 @@
-A---
+---
 title: Poetry Cupboard
 layout: post
 categories: Poetry
 ---
 
-Hello! I have recently begun experimenting with poems- though it's very slow going. I thought I'd share some here from the past few months. Definitely super scary, but it's better than them gathering dust :/
+<br>Hello! I have recently begun experimenting with poems- though it's very slow going. I thought I'd share some here from the past few months. Definitely super scary, but it's better than them gathering dust :/
+
 <br>*From early 2024:*
 
 <br>**Crooked Preacher:**
@@ -50,6 +51,7 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>Dream of boys to make us whole
 
 <br>*From October 2024...*
+
 <br>**Almost Friends**
 <br>I wish you would let me take care of your plant.
 <br>I would put it by my desk, right in the sunlight
@@ -64,7 +66,8 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>It’s no problem, I’ll look after it
 <br>Trust me, please.
 
-<font color="orange"><br>**Rhymes in Orange**
+<font color="orange">
+<br><b>Rhymes in Orange</b>
 <br>satsumas, tangerines
 <br>mandarins, or clementines
 <br>a pack of 8 
@@ -92,7 +95,7 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>But would you like an orange?
 </font>
 
-<br>**October 19th/Night Slipping
+<br>**October 19th/Night Slipping**
 <br>It was night in the room
 <br>The darkness was gooey, so that when I stepped
 <br>I slipped
@@ -116,6 +119,7 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>I try to focus.
 
 <br>*February 2025...*
+
 <br>**Bright Lights**
 <br>On nights like these, the sky is clear.
 <br>I remember constellations, galaxies,
@@ -123,7 +127,7 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>The sky isn’t the same now, is it?
 
 <br>On nights like these, I clear my mind
-<br>I watch one light, eclipsed, surreal
+<br>I watch one light, fade to surreal
 <br>I wonder if you’re holding on still
 <br>If I could reach, with cold fingertips,
 <br>Brush the bare soles of your feet
@@ -134,7 +138,7 @@ Hello! I have recently begun experimenting with poems- though it's very slow goi
 <br>Burning brush of men and metal
 <br>Don’t get confused as to what’s real now
 <br>Just come down, slowly
-<br>I don't think the sky is ours anymore.
+<br>I don't think it's our sky anymore.
 
 
 
