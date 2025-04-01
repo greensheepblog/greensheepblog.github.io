@@ -66,9 +66,9 @@ categories: Poetry
 <br>It’s no problem, I’ll look after it
 <br>Trust me, please.
 
-<font color="orange">
-<br><b>Rhymes in Orange</b>
-<br>satsumas, tangerines
+<font color="orange"><b>
+<br>Rhymes in Orange</b>
+<br><br>satsumas, tangerines
 <br>mandarins, or clementines
 <br>a pack of 8 
 <br>for just 1.35
