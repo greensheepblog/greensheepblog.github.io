@@ -73,22 +73,22 @@ categories: Poetry
 <br>a pack of 8 
 <br>for just 1.35
 
-<br>That’s 7 for me
+<br><br>That’s 7 for me
 <br>And 1 for you
 <br>Or maybe 2
 <br>(if you visit my room)
 
-<br>They’re really quite nice
+<br><br>They’re really quite nice
 <br>Except if you’re sick
 <br>Then I’ll gift tea
 <br>What else can I give?
 
-<br>So we trade the small things
+<br><br>So we trade the small things
 <br>We count in colors
 <br>It’s the smell on your hands
 <br>The rinds in the trash
 
-<br>Satsumas, tangerines
+<br><br>Satsumas, tangerines
 <br>mandarins, or clementines
 <br>I don’t know their name
 <br>You just learned mine
