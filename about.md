@@ -13,7 +13,7 @@ Welcome to my blogging journey! :) :) :)
 - **External Links:**
 Listen to my [radio show](https://camfm.co.uk/shows/the-cosmic-adventuring-radio-show/). Or check out my vlogs and videos on my [youtube channel](https://www.youtube.com/@HB-unlimited).
 
--**Upcoming Projects:**
+- **Upcoming Projects:**
 I have many more vague ideas than I have relevant skills or motivations. However, I am currently in early stages of creating a limited radio series and a text-based adventure game (release date tbd). Stay tuned for more updates!
 
 
