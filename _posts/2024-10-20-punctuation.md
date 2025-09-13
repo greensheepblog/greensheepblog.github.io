@@ -96,6 +96,7 @@ Yes, the upside-down punctuation returns. Unlike the upside down question marks,
 
 <br>AMPERSAND-UPSIDE DOWN QUESTION MARK
 Well, the name is still being workshopped for this one, but at least it’s pretty self-explanatory. Pictured below, this punctuation is still in its infancy, and has yet to make the big break to keyboards or unicode directories. 
+![](https://github.com/greensheepblog/greensheepblog.github.io/blob/2514d8094edb42484352a72c2604e88f0b65233f/screenshot.png)
 
 
 <br>FLOWERS- ⚘ ⁕ ⚘
