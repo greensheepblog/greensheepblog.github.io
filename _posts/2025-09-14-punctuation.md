@@ -53,7 +53,7 @@ After over half a century spent in exile from mainstream writing, in recent year
 
 Aside from the philosophical explanation, the ampersand holds a special place in the hearts of many simply because it is remarkably pleasing to write & read! At the present time ampersands are not widely considered an appropriate element in professional or technical writing. However, I would urge the reader not to be discouraged by this arbitrary gatekeeping. Ampersands are beautiful, useful, & surprisingly versatile. 
 
-They can be used as a simple substitution:
+<br>They can be used as a simple substitution:
 
 <small>I LOVE TO HAVE CANDY & PASTRIES ON THE WEEKEND.</small>
 
@@ -94,8 +94,8 @@ Yes, the upside-down punctuation returns. Unlike the upside down question marks,
 <small>DID YOU SEE WHO WON THE GAME!!¡¡!¡¡
 
 
-<br>AMPERSAND-UPSIDE DOWN QUESTION MARK
-Well, the name is still being workshopped for this one, but at least it’s pretty self-explanatory. Pictured below, this punctuation is still in its infancy, and has yet to make the big break to keyboards or unicode directories. 
+<br>AMPERSAND-UPSIDE-DOWN-QUESTION MARK
+Well, the name is still being workshopped for this one, but at least it’s pretty self-explanatory. The Apersnd-Upside-Down-Question mark skillfully merges the iconic elements of your favorite punctuation, opening the door to endless possiblity. Despite winning "Best Newcomer" at the controversial 2024 National Punctuation Awards, this sign is still in its infancy, and has yet to make the big break to keyboards or unicode directories. 
 ![](https://raw.githubusercontent.com/greensheepblog/greensheepblog.github.io/refs/heads/master/assets/images/inverted_ampersand.jpg)
 
 
