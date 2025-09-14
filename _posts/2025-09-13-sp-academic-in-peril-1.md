@@ -9,7 +9,7 @@ INTRODUCTION
 <br>Starfellow (and I assure you, we are on a first name basis) is a man of great wisdom, wit, and worldliness. He hired me as a biographer about five years ago, hoping to get a jump on the whole “media personality endeavor” when he was sure his latest invention would lead to a Nobel prize. Unfortunately, he was unable to secure a nomination that year, though I am sure one will be coming soon… otherwise, this work may not be the best use of my time. Certainly, I do often question its relevance in the wake of recent events, colorful characters, and the drenching rain that is not serving as the most reassuring symbol. But perhaps, in spite of these shortcomings, you may find this story entertaining. So, without further delay, I present to you the soft launch of my latest project: Starfellow Pike! Work in Progress?
 
 <br>STARFELLOW PIKE, ACADEMIC IN PERIL
-<small>Part One: A Family Matter</small>  
+<br><small>Part One: A Family Matter</small>  
 
 <br>Our story begins on an ordinary day in mid-May where the afternoon is crisp and windy. Starfellow Pike was pacing back and forth in the living room (or perhaps more accurately, the occasionally inhabited area. Really, a generous description of the decor would be minimalist, as though it had been owned for a number of decades, it had a stubborn refusal of character similar to an empty box or a raw potato). Starfellow was pacing because he had not received a call from his mother this weekend. Silence from his mother generally meant not that a terrible accident had befallen her, but rather that she was preoccupied by scheming, and this scheming could undoubtedly lead to terrible accidents befalling others. He was, as he always is, quite busy with research, and did not have much energy to be schemed at or otherwise imposed upon by his overbearing family. 
 
@@ -27,16 +27,16 @@ Luckily for Starfellow (and for me, as I begin to grow tired of exposition), the
 
 “I’m your niece?” she said, squinting at him. “Remember?”
 
-<br>Starfellow squinted back at her. Did he have a niece? That certainly does seem like the kind of stunt one of his sisters would come up with. He vaguely recollected sending childish birthday cards a few times, but the woman in front of him seemed closer to seventeen or eighteen. That wouldn’t do. Starfellow had a minor aversion to young people. As he mused to me often, “why bother with those whose minds are not fully formed?”
+Starfellow squinted back at her. Did he have a niece? That certainly does seem like the kind of stunt one of his sisters would come up with. He vaguely recollected sending childish birthday cards a few times, but the woman in front of him seemed closer to seventeen or eighteen. That wouldn’t do. Starfellow had a minor aversion to young people. As he mused to me often, “why bother with those whose minds are not fully formed?”
 
 “Here,” said the woman, clearly sensing Starfellow very much did not remember her, and placed a crinkled envelope into Starfellow’s hand. “It’s from grandma,” she explained, crossing over the threshold. Then, making eye contact with me, perhaps with the assumption I was some sort of house staff, “I’m hungry,” she declared. Not wanting to disappoint, I began, in a daze, to make a sandwich. 
 
 Meanwhile, Starfellow turned the letter around in his hands, somewhat shell-shocked. The letter was unmistakably in his mother’s handwriting, and when opened, went something like this:
 
-<br>“My dear son,
+<br>“My dear son
 (Starfellow questioned if his mother even remembered his given name)
 
-<br>“Here is your niece, Raymonda. Her mother (your sister Arianna) was getting tired of her so she went to live with me. However, she was a terrible nuisance in the garden, so it has been decided she will now live with you as an apprentice. Good luck.
+<br>Here is your niece, Raymonda. Her mother (your sister Arianna) was getting tired of her so she went to live with me. However, she was a terrible nuisance in the garden, so it has been decided she will now live with you as an apprentice. Good luck.
 
 <br>More importantly, I have my eye on a new plant for the garden. It is very rare, but I believe it tends to pop up in your area. It’s called a scriggly shrubbery. As you can imagine, it's like a normal fern, but a tad scrigglier. Looks something like this:
 
